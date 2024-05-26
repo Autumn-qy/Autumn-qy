@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<h1>Backend Developer & Tech Enthusiast | Proficient in Golang & Solidity, Exploring Rust and Node.js</h1>
-<p>Crafting robust backend solutions, delving into Web3, and dabbling in Rust and Node.js for server-side development. Fluent in Golang, venturing into Solidity for decentralized applications, while exploring the versatility of Rust and Node.js.</p>
+<h1>Backend Developer & Tech Enthusiast | Proficient in Golang & Node.js | Exploring Rust & Solidity</h1>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
